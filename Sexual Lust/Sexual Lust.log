@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  28 DEC 2018 14:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  28 DEC 2018 22:59
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -133,10 +133,21 @@ Package: xparse 2017/05/13 L3 Experimental document command parser
 \l__xparse_m_args_int=\count125
 \l__xparse_mandatory_args_int=\count126
 \l__xparse_v_nesting_int=\count127
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box42
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen134
+\ttl@minus=\dimen135
+\ttl@toksa=\toks14
+\titlewidth=\dimen136
+\titlewidthlast=\dimen137
+\titlewidthfirst=\dimen138
 )
 
 LaTeX Warning: Unused global option(s):
-    [parskip=full].
+    [parskip=full,15pt].
 
 (./Sexual Lust.aux)
 \openout1 = `"Sexual Lust.aux"'.
@@ -153,80 +164,24 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--18
-
- []
-
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no œ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ˜ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no œ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ˜ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-[2]
-! Undefined control sequence.
-l.33 \subsubsubsection
-                      *{Matthew 5:28}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34   \item M
-              atthew 5:28 demonstrates that lust is wrong.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -234,12 +189,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39   \item T
+l.45   \item T
               he future wife argument
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[3]
+[2]
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -247,7 +202,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.46   \item T
+l.52   \item T
               he sin against oneself argument
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -259,12 +214,11 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51   \item T
+l.57   \item T
               he idolatry argument
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[4]
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -272,7 +226,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56   \item T
+l.62   \item T
               he disingenuous argument
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -284,7 +238,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 \end{enumerate}
+l.67 \end{enumerate}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -293,28 +247,29 @@ or  <return>  to continue without it.
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.61 \end{enumerate}
+l.67 \end{enumerate}
                     
 Things are pretty mixed up, but I think the worst is over.
 
-[5] (./Sexual Lust.aux) ) 
+[3] (./Sexual Lust.aux) ) 
 Here is how much of TeX's memory you used:
- 7556 strings out of 492995
- 153185 string characters out of 6132704
- 180107 words of memory out of 5000000
- 11166 multiletter control sequences out of 15000+600000
- 6060 words of font info for 22 fonts, out of 8000000 for 9000
+ 7835 strings out of 492995
+ 156773 string characters out of 6132704
+ 183091 words of memory out of 5000000
+ 11441 multiletter control sequences out of 15000+600000
+ 5504 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 32i,4n,26p,10391b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,4n,29p,10385b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmti12.pfb>
-Output written on "Sexual Lust.pdf" (5 pages, 67327 bytes).
+/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmti10.pfb>
+Output written on "Sexual Lust.pdf" (3 pages, 83528 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 34 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
