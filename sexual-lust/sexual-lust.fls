@@ -1,9 +1,9 @@
-PWD /Users/brandonchow/Documents/GitHub/the-rational-christian/Sexual Lust
+PWD /Users/brandonchow/Documents/GitHub/the-rational-christian/sexual-lust
 INPUT /usr/local/texlive/2017/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT Sexual Lust.tex
-OUTPUT Sexual Lust.log
+INPUT sexual-lust.tex
+OUTPUT sexual-lust.log
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
@@ -25,9 +25,9 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
-INPUT Sexual Lust.aux
-INPUT Sexual Lust.aux
-OUTPUT Sexual Lust.aux
+INPUT sexual-lust.aux
+INPUT sexual-lust.aux
+OUTPUT sexual-lust.aux
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
@@ -42,9 +42,9 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-OUTPUT Sexual Lust.pdf
+OUTPUT sexual-lust.pdf
 INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT Sexual Lust.aux
+INPUT sexual-lust.aux
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb

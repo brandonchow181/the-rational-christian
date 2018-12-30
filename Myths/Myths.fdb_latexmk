@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1546072198 "Myths.tex" "Myths.pdf" "Myths" 1546072201
+["pdflatex"] 1546072198 "myths.tex" "myths.pdf" "myths" 1546163867
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -23,8 +23,11 @@
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "Myths.aux" 1546072200 261 b3c3b1154080f4699f8b21e89ee8b85f ""
-  "Myths.tex" 1546072197 5913 e13abee63162b1193545f798c4b15f91 ""
+  "Myths.tex" 1546163865 5913 e13abee63162b1193545f798c4b15f91 ""
+  "myths.tex" 1546163865 5913 e13abee63162b1193545f798c4b15f91 ""
   (generated)
   "Myths.aux"
-  "Myths.pdf"
+  "myths.pdf"
   "Myths.log"
+  "Myths.pdf"
+  "myths.log"
